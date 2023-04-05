@@ -1,0 +1,11 @@
+{
+  "name": "nouveauprojet",
+  "version": "1.0.0",
+  "description": "projet de marco",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marco",
+  "license": "MIT"
+}
